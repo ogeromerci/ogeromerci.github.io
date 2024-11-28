@@ -1,0 +1,142 @@
+,Country,PM2.5 AQI Value,Ozone AQI Value,NO2 AQI Value,Gross Domestic Product (GDP) per capita
+0,Brazil,41,5,1,6200
+1,Poland,20,34,0,15700
+2,United States of America,54,14,11,634160
+3,Belgium,64,29,7,445940
+4,China,58,68,1,125510
+5,Netherlands,41,24,6,523970
+6,France,59,30,4,39030
+7,Colombia,67,16,2,53360
+8,Romania,62,37,1,127570
+9,Indonesia,44,15,0,43570
+10,Finland,15,30,1,490410
+11,South Africa,79,18,5,5090
+12,India,247,162,1,18760
+13,Haiti,124,15,5,12530
+14,Philippines,30,17,0,35720
+15,Latvia,44,34,0,177260
+16,Germany,54,31,3,457810
+17,New Zealand,17,19,1,420840
+18,Mexico,64,15,2,84210
+19,Japan,60,44,3,401930
+20,El Salvador,90,22,9,37940
+21,Nigeria,133,23,3,20970
+22,South Sudan,65,12,0,2960
+23,Ireland,57,26,3,838130
+24,Canada,10,20,1,43280
+25,Denmark,25,36,0,609090
+26,Cameroon,59,12,0,15370
+27,Australia,13,29,0,51890
+28,Portugal,21,27,2,22440
+29,Hungary,50,41,1,340460
+30,Israel,92,52,8,436140
+31,Madagascar,20,26,0,4710
+32,Ghana,104,14,1,2410
+33,Armenia,39,29,1,42970
+34,Guatemala,104,5,10,42890
+35,Thailand,52,28,0,73360
+36,Malaysia,92,57,1,113990
+37,Ecuador,39,4,2,5520
+38,Argentina,17,17,1,8430
+39,Peru,21,4,0,60830
+40,Dominican Republic,65,12,6,7530
+41,Azerbaijan,52,35,0,42020
+42,Spain,13,30,2,270570
+43,Guinea,63,13,0,11940
+44,Chile,61,2,9,132280
+45,Kazakhstan,50,41,0,8730
+46,Serbia,63,33,1,71490
+47,Egypt,55,60,3,39820
+48,Malawi,28,19,0,6250
+49,Sierra Leone,48,16,0,5040
+50,Ukraine,12,39,0,34240
+51,Benin,101,18,2,12910
+52,Namibia,19,18,0,42110
+53,Albania,68,39,1,53360
+54,Guyana,27,19,0,54680
+55,Senegal,176,21,3,14870
+56,Lesotho,117,14,7,8610
+57,Bulgaria,24,40,1,98420
+58,Somalia,58,21,0,4860
+59,Solomon Islands,6,18,0,1870
+60,Paraguay,20,20,0,62950
+61,Zimbabwe,44,17,0,12180
+62,Austria,59,30,3,481540
+63,Croatia,35,48,0,14070
+64,Chad,59,6,0,6590
+65,Honduras,55,5,4,23830
+66,Cambodia,59,27,0,16540
+67,Uganda,62,17,0,8170
+68,Cuba,56,25,1,92340
+69,Uruguay,22,19,0,154560
+70,Myanmar,10,15,0,12170
+71,Angola,40,14,0,18960
+72,Zambia,36,16,0,10510
+73,Morocco,59,16,4,3410
+74,Slovakia,50,31,1,19140
+75,Sweden,19,38,1,516870
+76,Belarus,52,28,1,61330
+77,Norway,52,34,1,67330
+78,Mongolia,81,34,0,41670
+79,Rwanda,157,17,2,7980
+80,Botswana,31,18,0,67110
+81,Sri Lanka,46,32,0,36820
+82,Burundi,67,20,1,2740
+83,Jamaica,41,26,1,50960
+84,Kenya,78,25,1,18380
+85,Slovenia,81,49,0,250390
+86,Mauritius,55,27,0,80
+87,Nicaragua,46,21,0,1870
+88,Uzbekistan,108,52,1,17620
+89,Burkina Faso,74,34,0,8150
+90,Mauritania,157,36,0,16830
+91,Guinea-Bissau,120,27,1,6970
+92,Bangladesh,157,36,2,20640
+93,Eritrea,76,28,0,2880
+94,Barbados,73,24,0,151630
+95,Algeria,106,45,0,3940
+96,Saudi Arabia,196,44,1,20180
+97,Tajikistan,132,55,0,8340
+98,Greece,30,44,0,181680
+99,Liberia,56,18,0,5830
+100,Bhutan,31,27,0,33060
+101,Costa Rica,83,2,14,119820
+102,Gambia,158,30,1,7870
+103,Lithuania,45,33,0,204560
+104,Iraq,118,85,2,5560
+105,Mali,72,15,0,8790
+106,Georgia,50,34,0,4400
+107,Libya,68,39,0,3280
+108,Niger,41,25,1,5670
+109,Central African Republic,64,18,0,4920
+110,Sudan,77,46,1,7720
+111,Turkmenistan,57,43,0,80730
+112,Gabon,78,15,0,70050
+113,Estonia,17,35,0,233120
+114,Panama,61,28,3,123730
+115,Togo,77,19,0,9140
+116,Congo,61,21,0,18460
+117,Comoros,39,31,0,14020
+118,Nepal,93,69,0,11550
+119,Jordan,98,46,4,4170
+120,Montenegro,68,30,1,87280
+121,Equatorial Guinea,52,20,0,71430
+122,Luxembourg,23,26,2,1158740
+123,Tunisia,27,57,0,33230
+124,Belize,58,26,0,39450
+125,Andorra,24,32,0,408970
+126,Iceland,12,23,0,592610
+127,Palau,7,16,0,156550
+128,Suriname,44,18,0,68550
+129,Singapore,91,29,4,727940
+130,Maldives,15,19,0,9310
+131,Bahrain,188,127,3,224020
+132,Lebanon,64,49,2,7380
+133,Seychelles,26,25,0,174480
+134,Cyprus,37,50,0,26440
+135,Afghanistan,64,41,0,5240
+136,Yemen,156,46,0,6680
+137,Oman,139,155,5,142150
+138,Kuwait,161,124,18,22110
+139,Qatar,144,164,2,520
+140,Monaco,42,56,1,1905130
